@@ -1,0 +1,24 @@
+{
+  "name": "magic-stack",
+  "version": "1.0.0",
+  "description": "DevStack for react.js include ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lurtt/magic-stack.git"
+  },
+  "keywords": [
+    "dev-stack",
+    "reactjs",
+    "webpack"
+  ],
+  "author": "Lurtt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lurtt/magic-stack/issues"
+  },
+  "homepage": "https://github.com/Lurtt/magic-stack#readme"
+}
